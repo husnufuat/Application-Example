@@ -7,18 +7,6 @@
       /____/
 3D Pipe Bending Machine Digital Twin Simulation Application Example
 
-
-![Screenshot 2025-04-02 145151](https://github.com/user-attachments/assets/1eb4afd6-46f8-46db-a43d-52ff7788efd4)
-![Screenshot 2025-04-02 141123](https://github.com/user-attachments/assets/eef8f141-c83a-40a6-9a52-4a52bce3ff56)
-![Screenshot 2025-04-02 141109](https://github.com/user-attachments/assets/73b43549-742d-4817-863e-f522f41266bf)
-![Screenshot 2025-04-02 141005](https://github.com/user-attachments/assets/aff2a385-386f-45f7-8895-49b5024c6d03)
-![Screenshot 2025-04-02 140951](https://github.com/user-attachments/assets/b49c6493-623f-4aad-a607-fded75488068)
-![Screenshot 2025-04-02 140932](https://github.com/user-attachments/assets/bca43932-529f-4f8f-9cda-019f13a7d93f)
-![Screenshot 2025-04-02 140916](https://github.com/user-attachments/assets/1a2a6d34-d433-4c75-90cf-e44e61fdf79c)
-![Screenshot 2025-04-02 140855](https://github.com/user-attachments/assets/d8b659b5-0ede-4164-9175-d0ae15095c71)
-![Screenshot 2025-04-02 140818](https://github.com/user-attachments/assets/1d610079-625e-4d8a-96b5-4db36621477f)
-
-
 ⚠️ Commercial Product - $20.00
 
 This application is NOT open source and requires purchase to access.
