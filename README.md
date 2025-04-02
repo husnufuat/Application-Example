@@ -8,7 +8,6 @@
 3D Pipe Bending Machine Digital Twin Simulation Application Example
 ⚠️ Commercial Product - $20.00
 
-https://arkoplatinnn.gumroad.com/l/jbdrs
 
 This application is NOT open source and requires purchase to access.
 🛒 Purchase Now
@@ -73,4 +72,3 @@ This is a commercial product priced at $20.00. All rights reserved. Purchase gra
 
 Purchase Application ($20.00)
 
-https://arkoplatinnn.gumroad.com/l/jbdrs
