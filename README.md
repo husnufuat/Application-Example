@@ -70,4 +70,4 @@ This is a commercial product priced at $20.00. All rights reserved. Purchase gra
 🔗 Links
 
 Purchase Application ($20.00)
-
+https://arkoplatinnn.gumroad.com/l/jbdrs
